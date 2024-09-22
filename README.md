@@ -50,9 +50,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ```txt
 TypeScript    9 hrs 14 mins   █████████████▒░░░░░░░░░░░░   30.26 %
 JavaScript    12 mins         █████░░░░░░░░░░░░░░░░░░░░░   12.91 %
-CSS           16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Sass          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Image (svg)   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+CSS           16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Sass          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Image (svg)   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Golang        9 hrs 14 mins   ████████████████████▒░░░░░   30.00 %
 Solidity      9 hrs 14 mins   ██████████████████░░░░░░░░   25.00 %
 ```
